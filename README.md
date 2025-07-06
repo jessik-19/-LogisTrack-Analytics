@@ -31,7 +31,9 @@ Ce projet présente un tableau de bord interactif réalisé avec **Looker Studio
 ## 📁 Données utilisées
 
 Ce projet s'appuie sur plusieurs tables relationnelles simulant un environnement logistique :
+
 ├── clients.csv
+
 ├── commandes.csv
 ├── produits.csv
 ├── transporteurs.csv
