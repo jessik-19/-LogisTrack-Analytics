@@ -35,8 +35,11 @@ Ce projet s'appuie sur plusieurs tables relationnelles simulant un environnement
 ├── clients.csv
 
 ├── commandes.csv
+
 ├── produits.csv
+
 ├── transporteurs.csv
+
 ├── incidents.csv
 
 ## 🔑 Indicateurs clés suivis
