@@ -55,4 +55,10 @@ Ce projet s'appuie sur plusieurs tables relationnelles simulant un environnement
 - Top transporteurs
 - Tendance des commandes
 
+## 👩🏽‍💻 Réalisé par
+**Ange Muriel Kamguem Mande**  
+_Master 2 Big Data & Intelligence Artificielle_  
 
+
+🌐 [Portfolio](jessik-19.github.io/portfolio_kamguem/)  
+🔗 [LinkedIn](linkedin.com/in/ange-muriel-kamguem-mande-aabaa7295)
